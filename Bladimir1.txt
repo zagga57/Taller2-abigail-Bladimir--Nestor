@@ -1,2 +1,2 @@
 Hola este es mi primer archivo
-Estoy aprendiendo Git
+Estoy aprendiendo Gitgit 
