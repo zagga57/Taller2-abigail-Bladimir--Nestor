@@ -1,0 +1,2 @@
+Este es mi segundo archivo
+Practicando en visual studio code
