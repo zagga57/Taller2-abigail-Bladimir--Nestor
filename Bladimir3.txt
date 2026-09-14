@@ -1,3 +1,6 @@
 Archivo de prueba
 hace parte de la primera rama
 Cree una segunda rama para practicar
+------
+Julyandreagc: Agrego nueva línea para prueba de commit - Repositorios remotos
+Julyandreagc: Actualizaré nuevo punto de control
