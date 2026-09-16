@@ -1,0 +1,3 @@
+Se agrega un nuevo documento al repositorio compartido.  Taller 2 - Control de código GIT
+---
+Se realiza cambio en documento, para cargar nuevos cambios y puntos de control para taller de práctica.
